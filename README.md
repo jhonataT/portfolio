@@ -22,7 +22,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/51134324/236645596-a8deaede-4b90-4b63-8e1c-db0eaf1bd118.png)
+![App Screenshot](https://user-images.githubusercontent.com/51134324/236645723-22ce5f24-b96a-41b6-a86c-e9232a615934.png)
 ![App Screenshot](https://user-images.githubusercontent.com/51134324/236644320-b55088bb-352f-4f5f-a46f-1ecfa9ec2f28.png)
 ![App Screenshot](https://user-images.githubusercontent.com/51134324/236644359-3cb0582c-2015-41f9-ac64-50b2ce4102d7.png)
 ![App Screenshot](https://user-images.githubusercontent.com/51134324/236644391-400ddfb3-9a55-4b7f-aa7a-d5f17c01fd45.png)
